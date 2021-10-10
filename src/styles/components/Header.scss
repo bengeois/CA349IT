@@ -23,6 +23,10 @@
     .right-item {
       grid-column-start: 20;
       grid-column-end: 21;
+
+      display: flex;
+      justify-self: end;
+      padding-right: 15px;
     }
   }
 
