@@ -3,13 +3,17 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-} from "react-router-dom";
+} from 'react-router-dom';
 
-import Home from "./../components/Home/Home";
+import Header from './../components/Header/Header';
+import Home from './../components/Home/Home';
+import Space from './../components/Space/Space';
 
 const App = () => {
   return (
     <Router>
+      <Header />
+      <Space value="70px" />
       <Switch>
         <Route path="/">
           <Home />
