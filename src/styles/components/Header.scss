@@ -10,7 +10,7 @@
 
   .tool-box {
     display: grid;
-    grid-template-columns: repeat(20, auto);
+    grid-template-columns: repeat(10, auto);
 
     width: 100%;
     height: 50px;
@@ -21,8 +21,8 @@
     font-family: 'Montserrat', sans-serif;
 
     .right-item {
-      grid-column-start: 20;
-      grid-column-end: 21;
+      grid-column-start: 10;
+      grid-column-end: 11;
 
       display: flex;
       justify-self: end;
@@ -30,8 +30,8 @@
     }
   }
 
-  transition: height 1s;
+  /*transition: height 1s;
   &:hover {
     height: 300px;
-  }
+  }*/
 }
