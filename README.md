@@ -2,8 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to launch the project ?
 
-> Run a web server using this folder
-> Use Index.html
+> - Run a web server using this folder
+> - Use Index.html
 
 
 
