@@ -2,8 +2,8 @@ This project was bootstrapped with Aroma template : https://colorlib.com/wp/temp
 
 ## How to launch the project ?
 
-- Run a web server using this folder
-- Use Index.html
+- Run a web server at the root of this folder (we can use this one https://www.npmjs.com/package/local-web-server)
+- Open localhost:8000 on your browser
 
 ## Amasson project overview
 
