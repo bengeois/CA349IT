@@ -1,5 +1,9 @@
 This project was bootstrapped with Aroma template : https://colorlib.com/wp/template/aroma/
 
+## Fast lookaround
+
+- Download the repository and double click the index.html file.
+
 ## How to launch the project ?
 
 - Run a web server at the root of this folder (we can use this one https://www.npmjs.com/package/local-web-server)
